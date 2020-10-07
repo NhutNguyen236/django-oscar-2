@@ -301,4 +301,4 @@ development of an existing Oscar site then please get in touch via `info@oscarco
 
 Deployment infor
 ------------
-* Django-Oscar in my case was deployed on Pythonanywhere and the domain name is giadungthongminhsg.com 
+* Django-Oscar in my case was deployed on Pythonanywhere and the domain name is `giadungthongminhsg.com <https://www.giadungthongminhsg.com/>`_
