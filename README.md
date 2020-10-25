@@ -1,7 +1,7 @@
 # Some upgrades for Django-Oscar project :smile:
 
 <p>
-  <img src = "https://github.com/django-oscar/django-oscar/raw/master/docs/images/logos/oscar.png"/>
+  <img src = "https://github.com/NhutNguyen236/django-oscar-2/blob/master/docs/images/logos/oscar.png"/>
 </p>
 
 # Domain-driven e-commerce for Django
