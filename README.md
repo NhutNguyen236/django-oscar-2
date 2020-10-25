@@ -1,6 +1,6 @@
 # Some upgrades for Django-Oscar project :smile:
 
-<p>
+<p align = "center">
   <img src = "https://github.com/NhutNguyen236/django-oscar-2/blob/master/docs/images/logos/oscar.png"/>
 </p>
 
