@@ -1,3 +1,7 @@
+==============================================
+Some upgrades for Django-Oscar project :smile:
+==============================================
+
 .. image:: https://github.com/django-oscar/django-oscar/raw/master/docs/images/logos/oscar.png
     :target: http://oscarcommerce.com
 
