@@ -1,4 +1,4 @@
-# Some upgrades for Django-Oscar project :smile:
+# Contributions for Django-Oscar project :smile:
 
 <p align = "center">
   <img src = "https://github.com/NhutNguyen236/django-oscar-2/blob/master/docs/images/logos/oscar.png"/>
