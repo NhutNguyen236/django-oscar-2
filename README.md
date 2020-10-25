@@ -89,24 +89,13 @@ Docs status:
 * [`Alexander Gaevsky`](https://github.com/sasha0)
 * [`Samir Shah`](https://github.com/solarissmoke)
 
-### My team:
+### My projetc team:
 
 * [`Dang Duc Vinh`]()
 * [`Nguyen Thanh Nguyen`]()
 * [`Nguyen Minh Nhut`]()
 * [`Vo Lam Duy Thuan`]()
 * [`Ha Quan Quan`]()
-
-
-* `David Winterbottom`: https://github.com/codeinthehole
-* `@codeinthehole`: https://twitter.com/codeinthehole
-* `Maik Hoepfel`: https://github.com/maikhoepfel
-* `@maikhoepfel`: https://twitter.com/maikhoepfel
-* `Markus Bertheau`: https://github.com/mbertheau
-* `Michael van Tellingen`: https://github.com/mvantellingen
-* `Alexander Gaevsky`: https://github.com/sasha0
-* `Samir Shah`: https://github.com/solarissmoke
-
 
 Supported versions
 ------------------
